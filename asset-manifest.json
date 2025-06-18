@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReatiaRyMause/Practica05f.git/static/css/main.f855e6bc.css",
+    "main.js": "/ReatiaRyMause/Practica05f.git/static/js/main.da5b7d4e.js",
+    "static/js/453.da43a850.chunk.js": "/ReatiaRyMause/Practica05f.git/static/js/453.da43a850.chunk.js",
+    "index.html": "/ReatiaRyMause/Practica05f.git/index.html",
+    "main.f855e6bc.css.map": "/ReatiaRyMause/Practica05f.git/static/css/main.f855e6bc.css.map",
+    "main.da5b7d4e.js.map": "/ReatiaRyMause/Practica05f.git/static/js/main.da5b7d4e.js.map",
+    "453.da43a850.chunk.js.map": "/ReatiaRyMause/Practica05f.git/static/js/453.da43a850.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.da5b7d4e.js"
+  ]
+}
