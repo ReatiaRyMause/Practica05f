@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReatiaRyMause/Practica05f.git/static/css/main.f855e6bc.css",
-    "main.js": "/ReatiaRyMause/Practica05f.git/static/js/main.da5b7d4e.js",
-    "static/js/453.da43a850.chunk.js": "/ReatiaRyMause/Practica05f.git/static/js/453.da43a850.chunk.js",
-    "index.html": "/ReatiaRyMause/Practica05f.git/index.html",
-    "main.f855e6bc.css.map": "/ReatiaRyMause/Practica05f.git/static/css/main.f855e6bc.css.map",
-    "main.da5b7d4e.js.map": "/ReatiaRyMause/Practica05f.git/static/js/main.da5b7d4e.js.map",
-    "453.da43a850.chunk.js.map": "/ReatiaRyMause/Practica05f.git/static/js/453.da43a850.chunk.js.map"
+    "main.css": "/Practica05f/static/css/main.f855e6bc.css",
+    "main.js": "/Practica05f/static/js/main.2bb10036.js",
+    "static/js/453.da43a850.chunk.js": "/Practica05f/static/js/453.da43a850.chunk.js",
+    "index.html": "/Practica05f/index.html",
+    "main.f855e6bc.css.map": "/Practica05f/static/css/main.f855e6bc.css.map",
+    "main.2bb10036.js.map": "/Practica05f/static/js/main.2bb10036.js.map",
+    "453.da43a850.chunk.js.map": "/Practica05f/static/js/453.da43a850.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.da5b7d4e.js"
+    "static/js/main.2bb10036.js"
   ]
 }
